@@ -1,2 +1,2 @@
-# scientific-curriculum-vitae
-This is the full list of my scientific and research activities
+# Scientific Curriculum Vitae
+This is the full list of my scientific activities.
